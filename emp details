@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+int empid =2463673;
+char empnam[4]="sai";
+float empsal=20000.5363;
+printf("RA2211042010046");
+printf("%d/n",empid);
+printf("%s/n",empnam);
+printf("%f/n",empsal);
+return 0;
+}
